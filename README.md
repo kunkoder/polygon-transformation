@@ -1,8 +1,6 @@
-# :bulb: Transformasi Polygon Simulator
+# :bulb: Simulator Transformasi Polygon
 
 Repository ini berisi projek aplikasi berbasis desktop yang menerapkan beberapa metode transformasi objek 2D dasar dan mensimulasikannya dengan graphic user interface (Qt GUI).
-
-[Klik disini](https://espeka.vercel.app) untuk melihat demo aplikasi.
 
 ## :package: Prasyarat
 
