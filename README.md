@@ -34,7 +34,7 @@ cd polygon-transformation
 │   ├── 2D-transformation.png
 │   └── create-polygon.png
 ├── src
-│   ├── ...
+│   └── ...
 └── target
     ├── installer
     ├── PyInstaller
